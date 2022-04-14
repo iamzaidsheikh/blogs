@@ -892,6 +892,7 @@ You now have a fully functioning web server for your game which you can test.
 **NOTE : ** The postman collection only contains HTTP requests for the server. To test the Websocket you'll need to create a client that connects to the WebSocket endpoint and listens to the particular topic. 
 You can still test the game state changes without connecting to the Websocket but you will have to send the get all games request after every request to check if the state updated or not. 
 
+Check out this [article](https://startswithzed.hashnode.dev/build-squid-games-marble-guessing-game-using-flutter-and-websocket) on building the front-end for our app using Flutter. 
 
 If you found this tutorial useful, please consider leaving feedback. You can reach out to me at: 
 - [Twitter](https://twitter.com/startswithzed) 
