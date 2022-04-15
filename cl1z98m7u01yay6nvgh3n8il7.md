@@ -1091,8 +1091,10 @@ You can find the full source code [here](https://github.com/iamzaidsheikh/marble
  ![hide.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649951292621/eXFSPJ86on.png)
 **Guess**
 ![guess.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649951370432/hGlI6WpFz.png)
-**Winner*
+
+**Winner**
 ![winner.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649951388255/c2X_z4ScL.png)
+
 **Gif**
 ![marbles-client.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1649955947932/WiwLcwFT3.gif)
 
